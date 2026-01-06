@@ -1,1 +1,1 @@
-# terraform-azure-aws-foundation-26
+# terraform-azure-aws-foundation
